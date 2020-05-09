@@ -1,0 +1,123 @@
+body {
+	background-color: #060606;
+    background-image: url(../img/manchas-de-batom-unha-polones-ou-conjunto-de-tinta-isolado-em-fundo-preto_33099-1417.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+	color: #fff;
+	font-family: "Helvetica Neue", sans-serif;
+    margin: 0;
+}
+
+#banner {
+	background-color: rgba(0, 0, 0, .5);
+	height: 76px;
+	padding: 30px 70px 30px 70px;
+}
+
+#banner h1 {
+	float: left;
+	margin: 0;
+}
+
+#banner nav {
+	float: right;
+	position: relative;
+	top: 30px;
+}
+
+#banner ul {
+	margin: 0;
+}
+
+#banner nav ul li {
+	display: inline-block;
+	width: 100px;
+}
+
+#banner nav ul li a {
+	color: rgb(248, 247, 240);
+	font-size: 12px;
+	font-weight: bold;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+
+#descrição-serviços h2 {
+	line-height: 6;
+	margin: 0;
+	text-align: center;
+    text-shadow: 2px -2px 10px #060606;
+	text-transform: uppercase;
+}
+
+#descrição-serviços table {
+    background-color: #2a2a2a;
+    border-collapse: collapse;
+	margin: 0 auto;
+	width: 80%;
+}
+
+#descrição-serviços table td,
+#descrição-serviços table th {
+	border: 1px #000 solid;
+	font-size: 12px;
+	padding: 25px;
+	text-align: center;
+	text-transform: uppercase;
+	width: 20%;
+}
+
+#descrição-serviços .texto-corte, .texto-escova, .texto-coloração, 
+.texto-unhas,.texto-francesinha, .texto-massagem, .texto-drenagem, 
+.texto-peelingc, .texto-carboxterapia, .texto-acupuntura,
+.texto-banho, .texto-spa {
+	color: #fb39db;
+}
+
+#descrição-serviços .texto-ombre, .texto-hidratação, .texto-botox,
+.texto-esmaltação, .texto-unhad, .texto-podologia, .texto-limpezap,
+.texto-peelingd, .texto-banholua, .texto-aromaterapia, .texto-pedras,
+.texto-massagemr {
+	color: #db2e68;
+}
+
+#copyright {
+	background-color: #060606;
+    padding: 35px 0 10px 0;	
+}
+
+#copyright a {
+	display: block;
+	text-align: center;
+}
+
+#copyright p {
+	font-size: 12px;
+	text-align: center;
+}
+
+#descrição-serviços {
+	margin-top: 400px;
+	padding-bottom: 60px;
+}
+
+#terapia{
+	color:#fff;
+}
+
+#esmalteria{
+	color:#fff;
+}
+
+#estetica{
+	color:#fff;
+}
+
+#dayspa{
+	color:#fff;
+}
+
+
+
+
+
